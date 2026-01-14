@@ -185,14 +185,14 @@ The OpenPPG app:
 ## Support
 
 For app-related issues:
-- **Email**: info@openppg.com
-- **Forum**: community.openppg.com
-- **Documentation**: config.openppg.com/docs/controllers/sp140-v3/
+- **Email**: [info@openppg.com](mailto:info@openppg.com)
+- **Forum**: [community.openppg.com](https://community.openppg.com)
+- **Documentation**: [config.openppg.com/docs/controllers/sp140-v3/](https://config.openppg.com/docs/controllers/sp140-v3/)
 
 ## Alternative Access
 
 You can also access system configuration via:
-- **Web Interface**: config.openppg.com
+- **Web Interface**: [config.openppg.com](https://config.openppg.com)
 - **Hand Controller**: Limited settings available on device
 
 ## Updates & New Features

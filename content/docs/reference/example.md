@@ -24,8 +24,8 @@ seo:
 
 ## Emergency Contacts
 
-- **Support Email**: info@openppg.com
-- **Community Forum**: community.openppg.com
+- **Support Email**: [info@openppg.com](mailto:info@openppg.com)
+- **Community Forum**: [community.openppg.com](https://community.openppg.com)
 
 ## Critical Alerts
 

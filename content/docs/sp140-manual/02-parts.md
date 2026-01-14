@@ -175,4 +175,4 @@ When unboxing, verify you have received:
 - Titanium bolts and lock nuts
 - Instruction manual
 
-If any parts are missing or damaged, contact info@openppg.com with your order details.
+If any parts are missing or damaged, contact [info@openppg.com](mailto:info@openppg.com) with your order details.

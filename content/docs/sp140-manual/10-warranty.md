@@ -110,11 +110,11 @@ Even after warranty expiration:
 
 ## Making a Warranty Claim
 
-If you run into a problem we've covered, just get in touch with us at **info@openppg.com**. Show us your proof of purchase and tell us what's going on. We'll check it out, and if it's under warranty, we'll repair or replace the defective part(s) at no cost to you—**parts and labor included**.
+If you run into a problem we've covered, just get in touch with us at **[info@openppg.com](mailto:info@openppg.com)**. Show us your proof of purchase and tell us what's going on. We'll check it out, and if it's under warranty, we'll repair or replace the defective part(s) at no cost to you—**parts and labor included**.
 
 ### Claim Process
 
-1. **Contact Us**: Email info@openppg.com
+1. **Contact Us**: Email [info@openppg.com](mailto:info@openppg.com)
 2. **Provide Information**:
    - Order number
    - Date of purchase
@@ -139,7 +139,7 @@ If you run into a problem we've covered, just get in touch with us at **info@ope
 ### Important Terms
 
 - **Non-transferable**: This warranty is for you, the original purchaser—it's not transferable.
-- **OpenPPG Decision**: OpenPPG.com decides if a part is defective and whether we'll repair or replace it.
+- **OpenPPG Decision**: [OpenPPG.com](https://openppg.com) decides if a part is defective and whether we'll repair or replace it.
 - **ICE SP140 Excluded**: This warranty does NOT cover the ICE SP140 as we do not manufacture the motor in that case, and that warranty is with the manufacturer Vittorazi.
 - **Complete Systems Only**: This warranty applies to the complete OpenPPG paramotors; it does not include standalone, individual parts procured separately for systems used outside compatible OpenPPG parts.
 - **Shipping Costs**: Warranty covers all labor costs and replacement part costs; owners are responsible for getting warranty parts to the repair facility.
@@ -149,7 +149,7 @@ If you run into a problem we've covered, just get in touch with us at **info@ope
 
 To ensure smooth warranty service:
 
-1. **Register Your Product**: Visit openppg.com/register (if available)
+1. **Register Your Product**: Visit [openppg.com/register](https://openppg.com/register) (if available)
 2. **Keep Your Receipt**: Proof of purchase required
 3. **Use the OpenPPG App**: Automatically tracks flight hours
 4. **Maintain Records**: Keep maintenance logs
@@ -177,7 +177,7 @@ While we don't currently offer extended warranty programs, we do offer:
 - Parts subscriptions
 - Priority support options
 
-Contact info@openppg.com for details.
+Contact [info@openppg.com](mailto:info@openppg.com) for details.
 
 ## Frequently Asked Questions
 
@@ -201,7 +201,7 @@ A: Coverage ends at whichever comes first—300 hours or 12 months.
 
 ## Contact for Warranty Service
 
-**Email**: info@openppg.com
+**Email**: [info@openppg.com](mailto:info@openppg.com)
 
 **Subject Line**: "Warranty Claim - [Your Order Number]"
 

@@ -198,7 +198,7 @@ Use the [OpenPPG app](../04-app) to:
 - Physical damage
 
 **If Issues Detected:**
-- Contact OpenPPG support: info@openppg.com
+- Contact OpenPPG support: [info@openppg.com](mailto:info@openppg.com)
 - Do not fly with damaged battery
 - Follow warranty procedures if applicable
 
@@ -251,8 +251,8 @@ Contact OpenPPG support if you experience:
 - Any safety concerns
 
 **Support Contact:**
-- Email: info@openppg.com
-- Forum: community.openppg.com
+- Email: [info@openppg.com](mailto:info@openppg.com)
+- Forum: [community.openppg.com](https://community.openppg.com)
 - See [Support & Contact](../11-support) for full details
 
 ## Advantages of Electric Maintenance
@@ -271,5 +271,5 @@ This makes the SP140 one of the lowest-maintenance paramotors available.
 
 - Review [Warranty Information](../10-warranty)
 - Download the [OpenPPG app](../04-app) for maintenance tracking
-- Join the community at community.openppg.com
+- Join the community at [community.openppg.com](https://community.openppg.com)
 - Contact support with any questions

@@ -142,5 +142,5 @@ Modifications may affect warranty coverage and safety. Contact OpenPPG before ma
 
 For additional resources:
 - **GitHub**: [github.com/openppg/sp140-hardware](https://github.com/openppg/sp140-hardware/tree/main/Frame%20Parts)
-- **Community Forum**: community.openppg.com
-- **Support**: info@openppg.com
+- **Community Forum**: [community.openppg.com](https://community.openppg.com)
+- **Support**: [info@openppg.com](mailto:info@openppg.com)

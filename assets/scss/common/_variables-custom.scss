@@ -1,1 +1,17 @@
 // Put your custom SCSS variables here
+
+// Light mode - OpenPPG blue theme
+$primary: #007bff;
+
+// Dark mode - OpenPPG blue theme
+$link-color-dark: #3395ff;
+$button-color-dark: #3395ff;
+
+// Font family - System font stack
+$font-family-sans-serif: -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif;
+$font-family-base: $font-family-sans-serif;
+
+:root,
+::backdrop {
+  --sl-color-accent-high: #007bff;
+}
