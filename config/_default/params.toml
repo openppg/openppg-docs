@@ -1,13 +1,13 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "OpenPPG Documentation"
+description = "Official documentation for the OpenPPG SP140 Electric Paramotor"
 images = ["cover.png"]
 
 # mainSections
 mainSections = ["docs"]
 
 [social]
-  twitter = "getdoks"
+  twitter = "openppg"
 
 # Doks (@thulite/doks-core)
 [doks]
@@ -20,9 +20,9 @@ mainSections = ["docs"]
   containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
-  navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/prologue/introduction/"
-  navBarButtonText = "Get started"
+  navBarButton = true # false (default) or true
+  navBarButtonUrl = "/docs/sp140-manual/"
+  navBarButtonText = "SP140 Manual"
 
   # FlexSearch
   flexSearch = true # true (default) or false

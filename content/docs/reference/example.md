@@ -1,21 +1,56 @@
 ---
-title: "Example Reference"
-description: "Reference pages are ideal for outlining how things work in terse and clear terms."
+title: "Quick Reference"
+description: "Quick reference guide for SP140 v2.5 specifications and alerts"
 summary: ""
-date: 2023-09-07T16:13:18+02:00
-lastmod: 2023-09-07T16:13:18+02:00
+date: 2026-01-13T00:00:00+00:00
+lastmod: 2026-01-13T00:00:00+00:00
 draft: false
 weight: 910
 toc: true
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "SP140 v2.5 Quick Reference"
+  description: "Quick reference for specifications, alerts, and key information"
+  canonical: ""
+  noindex: false
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.
+## Key Specifications
 
-## Further reading
+- **Thrust**: 160 lbs (adjustable)
+- **Max Power**: 20 kW
+- **Flight Time**: 20-40 min (2.6 kWh) / 55-80 min (4.8 kWh)
+- **Weight**: 54.1 - 78.4 lbs (ready to fly)
+- **Warranty**: 12 months / 300 hours
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+## Emergency Contacts
+
+- **Support Email**: info@openppg.com
+- **Community Forum**: community.openppg.com
+
+## Critical Alerts
+
+### Red (Critical)
+- SOC < 5%
+- Cell Voltage < 3.0V
+- Motor Temperature > 115°C
+- ESC Over Temperature
+
+### Yellow (Warning)
+- SOC < 15%
+- Cell Voltage < 3.2V
+- Motor Temperature > 105°C
+- Battery Temperature > 50°C
+
+## Pre-Flight Checklist
+
+- [ ] Battery charged (> 50% for flight)
+- [ ] All bolts tight
+- [ ] Propeller undamaged
+- [ ] Netting intact
+- [ ] Harness secure
+- [ ] System powers on
+- [ ] No error codes
+
+## More Information
+
+See the [complete SP140 v2.5 Manual](/docs/sp140-manual/) for detailed information.

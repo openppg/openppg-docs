@@ -1,5 +1,5 @@
-title = "My Docs"
-baseurl = "http://localhost/"
+title = "OpenPPG Documentation"
+baseurl = "https://docs.openppg.com/"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
@@ -15,7 +15,7 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2024 Thulite"
+copyRight = "Copyright (c) 2024-2026 OpenPPG"
 
 [build.buildStats]
   enable = true
