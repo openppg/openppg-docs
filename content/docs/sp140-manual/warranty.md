@@ -212,4 +212,4 @@ A: Coverage ends at whichever comes first—300 hours or 12 months.
 - Flight hours
 - Photos/videos
 
-We're here to help! See [Support & Contact](../11-support) for additional resources.
+We're here to help! See [Support & Contact](../support) for additional resources.

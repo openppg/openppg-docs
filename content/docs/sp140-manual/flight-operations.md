@@ -24,11 +24,11 @@ The SP140 electric paramotor operates on the same principle as any other gas par
 While no warm-up is needed, it's still a good idea to spin up the propeller and ensure there are no impediments to a smooth takeoff. Pilots tend to be focused on the takeoff once the wing is overhead, so it's best to confirm everything will operate as expected.
 
 **Pre-Takeoff:**
-1. Complete all [Pre-Flight Checks](../07-pre-flight)
-2. Arm the system
-3. Test throttle response with brief pulses
-4. Check hand controller display for any alerts
-5. Verify wing is properly laid out
+
+1. Arm the system
+2. Test throttle response with brief pulses
+3. Check hand controller display for any alerts
+4. Verify wing is properly laid out
 
 **Takeoff Sequence:**
 1. Establish wing overhead
@@ -64,11 +64,13 @@ When settled into cruise flight, always be aware of your surroundings, watch out
 - **Traffic**: Maintain see-and-avoid vigilance
 
 **Cruise Control:**
+
 When cruise control is engaged:
+
 - Maintain awareness of power setting
 - Monitor battery consumption
 - Be ready to override if needed
-- Check [First Start-Up section](../05-startup) for cruise control operation
+- To enable: arm system, apply power, hold button until vibration feedback
 
 {{< callout context="note" title="Important" icon="outline/info-circle" >}}
 Your hand controller will vibrate to notify you of any warnings or alerts, along with displaying the information on the screen.
@@ -116,8 +118,9 @@ After flight, turn off the main power switch located on the battery pack. Then, 
 ### Battery Management After Flight
 
 **If landing with SOC below 10%:**
+
 - Charge battery back to around 50% SOC before storing the system for longer than a week
-- See [After-Flight Care](../09-after-flight) for detailed storage guidelines
+- See [After-Flight Care](../after-flight) for detailed storage guidelines
 
 **General Guidelines:**
 - SOC > 50%: Can store as-is for short term
@@ -191,9 +194,8 @@ After flight, turn off the main power switch located on the battery pack. Then, 
 ## Next Steps
 
 After landing and shutdown:
-- Review [After-Flight Care](../09-after-flight)
+
+- Review [After-Flight Care](../after-flight)
 - Complete maintenance items
 - Log flight in OpenPPG app
 - Store equipment properly
-
-For system alerts encountered during flight, see [Alerts & Warnings](../06-alerts) for detailed explanations.

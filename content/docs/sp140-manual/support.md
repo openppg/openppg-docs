@@ -44,15 +44,15 @@ For general questions and support:
 ### Technical Support
 
 For technical issues:
-- Start with [troubleshooting guides](../05-startup)
-- Check [alerts documentation](../06-alerts)
+
 - Review [community forum](https://community.openppg.com) for similar issues
 - Email with detailed description and photos/videos
 
 ### Warranty Claims
 
 For warranty-related issues:
-- See [Warranty Information](../10-warranty)
+
+- See [Warranty Information](../warranty)
 - Email: [info@openppg.com](mailto:info@openppg.com)
 - Subject: "Warranty Claim - [Order Number]"
 - Include proof of purchase and flight hours
@@ -103,7 +103,7 @@ Access system configuration online:
 
 ### Mobile App
 
-Download the [OpenPPG app](../04-app):
+Download the [OpenPPG app](../app):
 - iOS and Android
 - Bluetooth connectivity
 - Real-time monitoring
@@ -127,10 +127,9 @@ Comprehensive technical docs:
 
 This user manual covers:
 - [Assembly instructions](../assembly/)
-- [Operation procedures](../08-flight-ops)
-- [Maintenance schedules](../09-after-flight)
-- [Safety information](../06-alerts)
-- [Warranty details](../10-warranty)
+- [Operation procedures](../flight-operations)
+- [Maintenance schedules](../after-flight)
+- [Warranty details](../warranty)
 
 ## Community Resources
 
@@ -272,23 +271,22 @@ Check openppg.com for:
 
 ### Safety Information
 
-- Review [Pre-Flight Checks](../07-pre-flight)
-- Understand [Alerts & Warnings](../06-alerts)
-- Study [Flight Operations](../08-flight-ops)
+- Study [Flight Operations](../flight-operations)
 - Know emergency procedures
+- Understand hand controller alerts
 
 ### Maintenance
 
-- Follow [After-Flight Care](../09-after-flight) guidelines
-- Use [OpenPPG app](../04-app) for tracking
+- Follow [After-Flight Care](../after-flight) guidelines
+- Use [OpenPPG app](../app) for tracking
 - Maintain regular inspection schedule
 - Keep maintenance logs
 
 ### Technical Specifications
 
-- Review [Specifications](../01-specifications)
-- Check [Parts Identification](../02-parts)
-- Reference [Dimensions](../03-dimensions)
+- Review [Specifications](../technical-specifications)
+- Check [Parts Identification](../parts-identification)
+- Reference [Dimensions](../dimensions)
 - Download CAD files as needed
 
 ## Copyright & Legal

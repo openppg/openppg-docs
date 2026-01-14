@@ -118,9 +118,9 @@ Flight duration varies based on:
 - Weatherproof motor controller
 - Sealed battery enclosure
 - Protected electronics
-- Cold weather capability (see [After-Flight Care](../09-after-flight))
+- Cold weather capability (see [After-Flight Care](../after-flight))
 
 ## Warranty
 - **Duration**: 12 months or 300 hours of operation (whichever comes first)
 - **Coverage**: Comprehensive parts and labor
-- **Details**: See [Warranty Information](../10-warranty)
+- **Details**: See [Warranty Information](../warranty)

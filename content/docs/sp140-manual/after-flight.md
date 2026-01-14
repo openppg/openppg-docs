@@ -45,7 +45,7 @@ The SP140 fits in most vehicles when disassembled:
 - Van interiors
 - Pickup truck beds (weather protection recommended)
 
-See [Dimensions](../03-dimensions) for transport size specifications.
+See [Dimensions](../dimensions) for transport size specifications.
 
 ## Short- & Long-Term Storage
 
@@ -144,7 +144,7 @@ There's not much maintenance needed, as there are no motor rebuilds, oil changes
 
 ### Battery Maintenance (Every 3 Weeks)
 
-Use the [OpenPPG app](../04-app) to:
+Use the [OpenPPG app](../app) to:
 
 1. **Connect to battery via Bluetooth**
 2. **Check cell voltages**:
@@ -253,7 +253,7 @@ Contact OpenPPG support if you experience:
 **Support Contact:**
 - Email: [info@openppg.com](mailto:info@openppg.com)
 - Forum: [community.openppg.com](https://community.openppg.com)
-- See [Support & Contact](../11-support) for full details
+- See [Support & Contact](../support) for full details
 
 ## Advantages of Electric Maintenance
 
@@ -269,7 +269,7 @@ This makes the SP140 one of the lowest-maintenance paramotors available.
 
 ## Next Steps
 
-- Review [Warranty Information](../10-warranty)
-- Download the [OpenPPG app](../04-app) for maintenance tracking
+- Review [Warranty Information](../warranty)
+- Download the [OpenPPG app](../app) for maintenance tracking
 - Join the community at [community.openppg.com](https://community.openppg.com)
 - Contact support with any questions

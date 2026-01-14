@@ -1,6 +1,6 @@
 ---
 title: "SP140 v2.5 User Manual"
-description: "Complete user manual for the SP140 v2.5 Electric Paramotor"
+description: "Complete guide for the SP140 v2.5 Electric Paramotor"
 summary: "Assembly, operation, maintenance, and safety information for your OpenPPG SP140 v2.5"
 date: 2026-01-13T00:00:00+00:00
 lastmod: 2026-01-13T00:00:00+00:00
@@ -16,14 +16,14 @@ seo:
 
 ![SP140 v2.5](images/image28.png)
 
-# Welcome to Your SP140 v2.5 Manual
+# Welcome to Your SP140 v2.5 Guide
 
 **Version 1.01 | January 2026**
 
 This comprehensive guide covers everything you need to safely assemble, operate, and maintain your OpenPPG SP140 v2.5 Electric Paramotor. Whether you're unboxing for the first time or need a quick reference, you'll find detailed instructions and important safety information here.
 
 {{< callout context="caution" title="Safety First" icon="outline/alert-triangle" >}}
-**Read this entire manual before operating your SP140 v2.5.** Understanding your equipment is essential for safe operation. This is not a toy - proper training from a certified paramotor instructor is required.
+**Read this entire guide before operating your SP140 v2.5.** Understanding your equipment is essential for safe operation. This is not a toy - proper training from a certified paramotor instructor is required.
 {{< /callout >}}
 
 ---
@@ -33,21 +33,21 @@ This comprehensive guide covers everything you need to safely assemble, operate,
 The fastest way to get started! Watch our comprehensive video tutorials that walk you through assembly and operation.
 
 {{< card-grid >}}
-{{< link-card 
-  title="Frame Assembly Tutorial" 
-  description="Step-by-step frame assembly with detailed explanations" 
+{{< link-card
+  title="Frame Assembly Tutorial"
+  description="Step-by-step frame assembly with detailed explanations"
   href="https://openppg.com/sp140/v2.5/video"
   target="_blank"
 >}}
-{{< link-card 
-  title="Power Pack Assembly" 
-  description="Install battery, ESC, and motor controller" 
+{{< link-card
+  title="Power Pack Assembly"
+  description="Install battery, ESC, and motor controller"
   href="https://openppg.com/sp140/v2.5/video"
   target="_blank"
 >}}
-{{< link-card 
-  title="First Flight Guide" 
-  description="Pre-flight checks and safe operation procedures" 
+{{< link-card
+  title="First Flight Guide"
+  description="Pre-flight checks and safe operation procedures"
   href="https://openppg.com/sp140/v2.5/video"
   target="_blank"
 >}}
@@ -101,12 +101,12 @@ Follow our step-by-step assembly guide to build your SP140 safely and correctly.
 
 <div class="steps">
 
-1. **[Unboxing](assembly/01-unboxing/)** - Verify all parts are included and inspect for damage
-2. **[Center Frame](assembly/02-center-frame/)** - Build the main structural frame
-3. **[CF Spars & Hoop Connectors](assembly/03-spars-hoops/)** - Install carbon fiber components
-4. **[Netting & Gooseneck Bar](assembly/04-netting-gooseneck/)** - Add safety netting and gooseneck
-5. **[Power Pack & Harness](assembly/05-power-pack-harness/)** - Mount battery and electronics
-6. **[Hand Controller & Battery](assembly/06-controller-battery/)** - Complete final connections and test
+1. **[Unboxing](assembly/unboxing/)** - Verify all parts are included and inspect for damage
+2. **[Center Frame](assembly/center-frame/)** - Build the main structural frame
+3. **[CF Spars & Hoop Connectors](assembly/spars-hoops/)** - Install carbon fiber components
+4. **[Netting & Gooseneck Bar](assembly/netting-gooseneck/)** - Add safety netting and gooseneck
+5. **[Power Pack & Harness](assembly/power-pack-harness/)** - Mount battery and electronics
+6. **[Hand Controller & Battery](assembly/controller-battery/)** - Complete final connections and test
 
 </div>
 

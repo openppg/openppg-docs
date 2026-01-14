@@ -124,7 +124,7 @@ When transporting:
 3. **Propeller**: Store separately in protective case
 4. **Electronics**: Keep dry and protected from impact
 
-See [After-Flight Care](../09-after-flight) for detailed transport instructions.
+See [After-Flight Care](../after-flight) for detailed transport instructions.
 
 ## Customization
 
