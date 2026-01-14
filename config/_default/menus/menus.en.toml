@@ -35,6 +35,11 @@
   weight = 10
 
 [[main]]
+  name = "SP140 Manual"
+  url = "/docs/sp140-manual/"
+  weight = 20
+
+[[main]]
   name = "Blog"
   url = "/blog/"
   weight = 30
