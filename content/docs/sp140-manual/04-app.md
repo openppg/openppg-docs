@@ -1,5 +1,6 @@
 ---
 title: "Download the OpenPPG App"
+slug: "app"
 description: "Essential companion app for your SP140 v2.5"
 summary: "Download and use the OpenPPG app for the best experience with your paramotor"
 date: 2026-01-13T00:00:00+00:00

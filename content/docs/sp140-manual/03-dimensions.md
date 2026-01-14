@@ -1,5 +1,6 @@
 ---
 title: "Dimensions & CAD Files"
+slug: "dimensions"
 description: "Physical dimensions and 3D CAD files for the SP140 v2.5"
 summary: "Assembly dimensions, shipping size, and downloadable CAD files"
 date: 2026-01-13T00:00:00+00:00

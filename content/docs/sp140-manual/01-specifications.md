@@ -1,5 +1,6 @@
 ---
 title: "Technical Specifications"
+slug: "technical-specifications"
 description: "Complete technical specifications for the SP140 v2.5 Electric Paramotor"
 summary: "Detailed performance specs, weights, dimensions, and system information"
 date: 2026-01-13T00:00:00+00:00

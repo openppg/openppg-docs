@@ -14,71 +14,70 @@ seo:
   noindex: false
 ---
 
-# SP140 v2.5 Electric Paramotor User Manual
-
-**Version 1.01 | January 2026**
-
-![SP140 v2.5](images/image28.png)
-
-## Quick Start Video Tutorials
-
-Go to the address below or scan the QR code to watch the tutorial videos, which demonstrate how to assemble and use the paramotor safely.
-
-**[Watch Video Tutorials: https://openppg.com/sp140/v2.5/video](https://openppg.com/sp140/v2.5/video)**
-
-### Frame Assembly
-
-![Frame Assembly QR Code](images/image1.png)
-
-### V2.5 Power Pack Assembly
-
-![Power Pack Assembly QR Code](images/image2.png)
-
-## Manual Contents
-
-### Getting Started
-- [Technical Specifications](01-specifications) - Complete specs and performance data
-- [Parts Identification](02-parts) - Identify all components of your SP140
-- [Dimensions & CAD Files](03-dimensions) - Physical dimensions and 3D files
-- [Download the OpenPPG App](04-app) - Essential companion app
-
-### Assembly & Setup
-- [Assembly Overview](assembly/) - Complete assembly guide (30-60 minutes)
-  - [Unboxing](assembly/01-unboxing)
-  - [Center Frame](assembly/02-center-frame)
-  - [CF Spars & Hoop Connectors](assembly/03-spars-hoops)
-  - [Netting & Gooseneck Bar](assembly/04-netting-gooseneck)
-  - [Power Pack & Harness](assembly/05-power-pack-harness)
-  - [Hand Controller & Battery](assembly/06-controller-battery)
-
-### Operation
-- [First Start-Up & Checks](05-startup) - Motor runup, cruise control, and telemetry
-- [Alerts & Warnings](06-alerts) - Understanding system alerts and telemetry codes
-- [Pre-Flight Checks](07-pre-flight) - Essential safety checks before each flight
-- [Flight Operations](08-flight-ops) - Takeoff, flight, landing, and shutdown procedures
-
-### Maintenance & Care
-- [After-Flight Care](09-after-flight) - Transport, storage, and maintenance
-- [Warranty Information](10-warranty) - Coverage details and support
-
-### Support & Resources
-- [Support & Contact](11-support) - Get help and access additional resources
-
----
-
-## Safety First
-
 {{< callout context="caution" title="Important" icon="outline/alert-triangle" >}}
 Please read this entire manual before operating your SP140 v2.5. Understanding your equipment is essential for safe operation.
 {{< /callout >}}
 
+## Quick Start Video Tutorials
+
+Watch the tutorial videos to learn how to assemble and use the paramotor safely:
+
+**[Watch Video Tutorials →](https://openppg.com/sp140/v2.5/video)**
+
+<div style="display: flex; gap: 2rem; margin: 2rem 0;">
+  <div>
+    <h3>Frame Assembly</h3>
+    <img src="images/image1.png" alt="Frame Assembly QR Code" width="200">
+  </div>
+  <div>
+    <h3>Power Pack Assembly</h3>
+    <img src="images/image2.png" alt="Power Pack Assembly QR Code" width="200">
+  </div>
+</div>
+
+---
+
+## Manual Contents
+
+### 1. Getting Started
+
+- [**Technical Specifications**](technical-specifications/) - Performance data, thrust, power, and battery specifications
+- [**Parts Identification**](parts-identification/) - Identify all components of your SP140
+- [**Dimensions & CAD Files**](dimensions/) - Physical dimensions and 3D models
+- [**Download the OpenPPG App**](app/) - Essential companion app for iOS and Android
+
+### 2. Assembly & Setup
+
+- [**Assembly Overview**](assembly/) - Complete assembly guide (30-60 minutes)
+  - [Unboxing](assembly/01-unboxing/)
+  - [Center Frame](assembly/02-center-frame/)
+  - [CF Spars & Hoop Connectors](assembly/03-spars-hoops/)
+  - [Netting & Gooseneck Bar](assembly/04-netting-gooseneck/)
+  - [Power Pack & Harness](assembly/05-power-pack-harness/)
+  - [Hand Controller & Battery](assembly/06-controller-battery/)
+
+### 3. Operation
+
+- [**First Start-Up & Checks**](startup/) - Motor runup, cruise control, and telemetry verification
+- [**Alerts & Warnings**](alerts/) - Understanding system alerts and telemetry codes
+- [**Pre-Flight Checks**](pre-flight/) - Essential safety checks before each flight
+- [**Flight Operations**](flight-operations/) - Takeoff, in-flight, landing, and shutdown procedures
+
+### 4. Maintenance & Care
+
+- [**After-Flight Care**](after-flight/) - Transport, storage, charging, and maintenance
+- [**Warranty Information**](warranty/) - Coverage details and terms
+
+### 5. Support & Resources
+
+- [**Support & Contact**](support/) - Get help and access community resources
+
+---
+
 ## About This Manual
 
-This manual covers the SP140 v2.5 Electric Paramotor system, including:
-- Complete assembly instructions
-- Operational procedures
-- System alerts and warnings
-- Maintenance schedules
-- Warranty information
+**Version 1.01 | January 2026**
 
-For the latest updates and video tutorials, visit [openppg.com/sp140](https://openppg.com/sp140).
+This manual covers the SP140 v2.5 Electric Paramotor system including assembly instructions, operational procedures, system alerts, maintenance schedules, and warranty information.
+
+For the latest updates and resources, visit **[openppg.com/sp140](https://openppg.com/sp140)**

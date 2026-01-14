@@ -1,5 +1,6 @@
 ---
 title: "Support & Contact Information"
+slug: "support"
 description: "Get help and access OpenPPG resources"
 summary: "Contact details, online resources, and community support"
 date: 2026-01-13T00:00:00+00:00

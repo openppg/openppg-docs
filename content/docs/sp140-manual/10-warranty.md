@@ -1,5 +1,6 @@
 ---
 title: "Warranty Information"
+slug: "warranty"
 description: "SP140 v2.5 warranty coverage and terms"
 summary: "12 months / 300 hours warranty coverage details"
 date: 2026-01-13T00:00:00+00:00

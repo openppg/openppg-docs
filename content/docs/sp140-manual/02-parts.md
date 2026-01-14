@@ -1,5 +1,6 @@
 ---
 title: "Parts Identification"
+slug: "parts-identification"
 description: "Identify all components of your SP140 v2.5 Electric Paramotor"
 summary: "Visual guide to frame parts and power system components"
 date: 2026-01-13T00:00:00+00:00

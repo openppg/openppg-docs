@@ -1,5 +1,6 @@
 ---
 title: "Flight Operations"
+slug: "flight-operations"
 description: "Normal flight procedures for the SP140 v2.5"
 summary: "Takeoff, climb, cruise, landing, and post-flight shutdown procedures"
 date: 2026-01-13T00:00:00+00:00

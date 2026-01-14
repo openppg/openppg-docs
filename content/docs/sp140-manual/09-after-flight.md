@@ -1,5 +1,6 @@
 ---
 title: "After-Flight Care"
+slug: "after-flight"
 description: "Transport, storage, and maintenance for your SP140 v2.5"
 summary: "Proper care procedures to keep your paramotor in top condition"
 date: 2026-01-13T00:00:00+00:00
