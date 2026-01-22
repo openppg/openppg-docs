@@ -21,13 +21,17 @@ seo:
 
 ## Community
 
-- [OpenPPG Forum](https://forum.openppg.com) - Connect with other pilots and get support
-- [Discord Server](https://discord.gg/openppg) - Real-time chat with the community
+- [OpenPPG Forum](https://community.openppg.com) - Connect with other pilots and get support
+
+# Social Media
+
+- [Instagram](https://instagram.com/openppg) - Follow us on Instagram
+- [X.com](https://x.com/openppg) - Follow us on X
 
 ## Additional Documentation
 
 - [SP140 Manual](/docs/sp140-manual/) - Complete owner's manual
-- [Technical Specifications](/docs/sp140-manual/01-specifications/) - Detailed specs and performance data
+- [Technical Specifications](/docs/sp140-manual/technical-specs/) - Detailed specs and performance data
 
 ## Support
 

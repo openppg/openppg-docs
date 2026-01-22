@@ -192,6 +192,54 @@ weight: 1
     padding: 1.5rem;
   }
 }
+
+/* Hide auto-generated table of contents */
+.card-list {
+  display: none !important;
+}
+
+/* Custom Manual Navigation */
+.manual-nav {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 2rem 0 3rem;
+}
+
+.manual-nav-item {
+  background: var(--card-background, #f8f9fa);
+  border: 1px solid var(--border-color, #e9ecef);
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  overflow: hidden;
+}
+
+.manual-nav-item:hover {
+  border-color: var(--link-color, #0969da);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+
+.manual-nav-item a {
+  display: block;
+  padding: 1rem 1.25rem;
+  text-decoration: none;
+  color: var(--link-color, #0969da);
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.manual-nav-item a:hover {
+  text-decoration: none;
+  color: var(--link-hover-color, #0550ae);
+}
+
+@media (max-width: 768px) {
+  .manual-nav {
+    grid-template-columns: 1fr;
+  }
+}
+
 </style>
 
 <div class="manual-hero">
@@ -215,7 +263,7 @@ weight: 1
   <div class="video-card">
     <h3>Frame Assembly</h3>
     <div class="video-wrapper">
-      {{< youtube PScYGVZks_c >}}
+      {{< youtube b3571IcFlRY >}}
     </div>
   </div>
 
@@ -229,8 +277,58 @@ weight: 1
 
 ---
 
+<div class="section-header" style="margin-top: 3rem;">
+  <h2>Manual Sections</h2>
+  <p>Explore the complete SP140 v2.5 documentation below.</p>
+</div>
+
+<div class="manual-nav">
+  <div class="manual-nav-item">
+    <a href="technical-specs/">1. Technical Specs Overview</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="parts-identification/">2. Parts Identification Legend</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="dimensions/">3. Engine & Frame Dimensions</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="assembly/">4. Assembly & Installation</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="first-start/">5. First Start-Up & Functional Checks</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="alerts/">6. System Alerts / Telemetry</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="flight-operations/">8. Flight Operations</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="after-flight/">9. After-Flight Care</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="warranty/">10. Warranty</a>
+  </div>
+
+  <div class="manual-nav-item">
+    <a href="support/">11. Support & Contact Information</a>
+  </div>
+</div>
+
+---
+
 <div class="app-section">
   <span class="coming-soon-badge">Coming Soon</span>
   <h2>OpenPPG Mobile App</h2>
   <p>The official OpenPPG app will provide real-time telemetry, flight logging, and system diagnostics for your SP140 v2.5. Stay tuned for the official release.</p>
 </div>
+

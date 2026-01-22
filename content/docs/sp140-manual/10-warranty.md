@@ -42,4 +42,4 @@ If you run into a problem we’ve covered, just get in touch with us at [Info@op
 - This warranty is not for the ICE SP140 as we do not manufacture the motor in that case, and that warranty is with the manufacturer Vittorazi.
 - This warranty applies to the complete OpenPPG paramotors; it does not include standalone, individual parts procured separately for systems used outside compatible OpenPPG parts.
 - Shipping cost not included, warranty covers all labor costs and replacement part costs; owners are responsible for getting warranty parts to the repair facility.
-- This new warranty goes into effect for all paramotors received starting at the beginning of 2/2025 and onward.
+- This new warranty goes into effect for all paramotors received starting February 1st, 2025 and onward.
