@@ -87,7 +87,7 @@ Assembly video can be found here for a more detailed view:
 **For detailed instruction on power pack assembly please watch the video here**
 
 ![Power Pack Video](images/image43.png)
-![Power Pack Detail](images/image30.png)
+![Power Pack Detail](images/leg-clamp.png)
 
 ## 4.8 Harness
 
@@ -104,7 +104,7 @@ Assembly video can be found here for a more detailed view:
 3. Press firmly in place and then use the threaded rings to tighten it down all the way to a tight and secure connection.
 
 ![Hand Controller Connection 1](images/image48.png)
-![Hand Controller Connection 2](images/image25.png)
+![Hand Controller Connection 2](images/hand-controller.png)
 
 ## 4.10 Battery installation
 
