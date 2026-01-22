@@ -1,9 +1,10 @@
 ---
 title: "2. Parts Identification Legend"
 weight: 3
+slug: "parts-identification"
 ---
 
-# 2. Parts Identification Legend
+
 
 ## Frame Parts
 

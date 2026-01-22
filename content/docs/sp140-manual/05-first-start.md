@@ -1,9 +1,10 @@
 ---
 title: "5. First Start-Up & Functional Checks"
 weight: 6
+slug: "first-start"
 ---
 
-# 5. First Start-Up & Functional Checks
+
 
 ## 5.1 Motor runup (No Prop)
 

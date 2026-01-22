@@ -1,9 +1,10 @@
 ---
 title: "4. Assembly & Installation"
 weight: 5
+slug: "assembly"
 ---
 
-# 4. Assembly & Installation
+
 
 ![Assembly Overview](images/image22.jpg)
 

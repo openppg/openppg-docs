@@ -1,9 +1,10 @@
 ---
 title: "1. Technical Specs Overview"
 weight: 2
+slug: "technical-specs"
 ---
 
-# 1. Technical Specs Overview
+
 
 | Category | Specification | Details |
 | :--- | :--- | :--- |

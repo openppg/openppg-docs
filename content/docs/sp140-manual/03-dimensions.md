@@ -1,9 +1,10 @@
 ---
 title: "3. Engine & Frame Dimensions"
 weight: 4
+slug: "dimensions"
 ---
 
-# 3. Engine & Frame Dimensions
+
 
 Full 3d files can be found freely available for download at the link:
 [https://github.com/openppg/sp140-hardware/tree/main](https://github.com/openppg/sp140-hardware/tree/main)

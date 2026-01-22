@@ -1,9 +1,10 @@
 ---
 title: "6. System Alerts / Telemetry"
 weight: 7
+slug: "alerts"
 ---
 
-# 6.5 Telemetry Codes
+
 
 ## Alert Levels
 - **Warning**: Yellow alerts indicate conditions approaching dangerous levels

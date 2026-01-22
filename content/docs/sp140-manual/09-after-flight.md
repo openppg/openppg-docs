@@ -1,9 +1,10 @@
 ---
 title: "9. After-Flight Care"
 weight: 10
+slug: "after-flight"
 ---
 
-# 9 After-Flight Care
+
 
 ## 9.1 Transport
 When transporting the motor and frame strap it securely in place from large movements.  If traveling on bumpy road please store the battery upright or lay it flat on its size in its foam case. **Do not transport the battery upside down.**

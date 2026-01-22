@@ -4,7 +4,7 @@ description: "User Manual for the OpenPPG SP140 v2.5 Electric Paramotor"
 weight: 1
 ---
 
-# SP140 v2.5 Electric Paramotor
+
 ## User Manual
 **V1.01 2026.01**
 

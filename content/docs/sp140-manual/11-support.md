@@ -1,9 +1,10 @@
 ---
 title: "11. Support & Contact Information"
 weight: 12
+slug: "support"
 ---
 
-# 11 Support & Contact Information
+
 
 [OpenPPG Contact](https://openppg.com/contact/)
 

@@ -1,9 +1,10 @@
 ---
 title: "10. Warranty"
 weight: 11
+slug: "warranty"
 ---
 
-# 10 Warranty
+
 
 ### Electric SP140 OpenPPG Paramotor Warranty
 
