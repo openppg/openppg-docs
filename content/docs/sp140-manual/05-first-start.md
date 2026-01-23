@@ -9,7 +9,7 @@ slug: "first-start"
 ## 5.1 Motor runup (No Prop)
 
 1. Start by having your battery plugged in and the main power switch turned on.
-2. Now with your prop off the motor arming the motor can be done. Without arming the motor the motor will not be able to spin. This is for safety so not to accidentally spin up the motor accidentally.
+2. Now with your prop off the motor arming the motor can be done. Without arming the motor the motor will not be able to spin. This is for safety so not to accidentally spin up the motor.
 3. With all systems on and the main power switch in the on position you can now arm the systems with the hand controller.
 4. This is done with the little red button at the top of the hand controller.
 5. To arm press the button once then press again and hold until the hand controller beeps and vibrates. (This should just take a 1-2 seconds to arm or disarm and can be done at any state in flight)
