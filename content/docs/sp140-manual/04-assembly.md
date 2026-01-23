@@ -11,7 +11,8 @@ slug: "assembly"
 **Time to complete: 30-60 minutes**
 
 Assembly video can be found here for a more detailed view:
-![Assembly Video](images/image32.png)
+
+{{< youtube b3571IcFlRY >}}
 
 ## 4.1 Unboxing
 

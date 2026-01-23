@@ -1,5 +1,5 @@
 ---
-title: "10. Warranty"
+title: "9. Warranty"
 weight: 11
 slug: "warranty"
 ---

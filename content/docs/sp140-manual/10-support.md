@@ -1,5 +1,5 @@
 ---
-title: "11. Support & Contact Information"
+title: "10. Support & Contact Information"
 weight: 12
 slug: "support"
 ---

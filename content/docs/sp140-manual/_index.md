@@ -70,19 +70,19 @@ weight: 1
   </div>
 
   <div class="manual-nav-item">
-    <a href="flight-operations/">8. Flight Operations</a>
+    <a href="flight-operations/">7. Flight Operations</a>
   </div>
 
   <div class="manual-nav-item">
-    <a href="after-flight/">9. After-Flight Care</a>
+    <a href="after-flight/">8. After-Flight Care</a>
   </div>
 
   <div class="manual-nav-item">
-    <a href="warranty/">10. Warranty</a>
+    <a href="warranty/">9. Warranty</a>
   </div>
 
   <div class="manual-nav-item">
-    <a href="support/">11. Support & Contact Information</a>
+    <a href="support/">10. Support & Contact Information</a>
   </div>
 </div>
 

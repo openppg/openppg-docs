@@ -1,12 +1,12 @@
 ---
-title: "8. Flight Operations"
+title: "7. Flight Operations"
 weight: 9
 slug: "flight-operations"
 ---
 
 
 
-## 8.1 Normal Flight Profile
+## 7.1 Normal Flight Profile
 The SP140 electric paramotor operates on the same principle as any other gas paramotor, spinning the propeller to produce thrust so it can be flown similarly to most other paramotors.
 
 **Takeoff:**
@@ -21,7 +21,7 @@ When settled into cruise flight, always be aware of your surroundings, watch out
 **Landing:**
 Many pilots choose to disarm the throttle on landing to prevent accidental activation when on the ground; this is a personal preference.
 
-## 8.2 Post-Landing Shutdown
+## 7.2 Post-Landing Shutdown
 
 **Post flight:**
 After flight, turn off the main power switch located on the battery pack. Then, unplug the main power lead from the motor. Note the battery's SOC percentage. If landing with an SOC below 10%, it's best to charge the battery back to around 50% SOC before storing the system for longer than a week.
