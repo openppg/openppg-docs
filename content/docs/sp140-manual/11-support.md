@@ -8,9 +8,10 @@ slug: "support"
 
 [OpenPPG Contact](https://openppg.com/contact/)
 
-| General inquiries | Questions | Info@openppg.com |
+| General inquiries | Questions | info@openppg.com |
 | :--- | :--- | :--- |
-| **Orders & RMAs** | Include order # in e-mail | Info@openppg.com |
+| **Orders & RMAs** | Include order # in e-mail | info@openppg.com |
+| **Digital Guide** | Online Manual | docs.openppg.com |
 | **Online resources** | Youtube page | [www.youtube.com/@openppg](https://www.youtube.com/@openppg) |
 | **Online resources** | Config Tool | [config.openppg.com](https://config.openppg.com) |
 | **Online resources** | Community Forum | [community.openppg.com](https://community.openppg.com) |

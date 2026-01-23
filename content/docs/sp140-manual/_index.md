@@ -6,7 +6,7 @@ weight: 1
 
 <div class="manual-hero">
   <div class="manual-hero-text">
-    <p class="version">Version 1.01 • January 2026</p>
+    <p class="version">Version 1.02 • January 2026</p>
     <p class="description">Complete assembly and operation guide for your OpenPPG SP140 v2.5 electric paramotor. Watch the video tutorials below to get started safely.</p>
   </div>
   <div class="manual-hero-image">
