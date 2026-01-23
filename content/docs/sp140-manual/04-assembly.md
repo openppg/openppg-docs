@@ -4,8 +4,6 @@ weight: 5
 slug: "assembly"
 ---
 
-
-
 ![Assembly Overview](images/image22.jpg)
 
 **Time to complete: 30-60 minutes**
@@ -66,7 +64,7 @@ Assembly video can be found here for a more detailed view:
 
 ## 4.6 Gooseneck bar assembly
 
-1. Take your goose neck bars out of protective packaging and then decide which direction you want the torque compensation to be on. For the standard SP140 electric motor direction, it will be on the right side of the goose neck bars when in the flying position. *For the ICE Atom 80, it should be placed on the left side.
+1. Take your goose neck bars out of protective packaging and then decide which direction you want the torque compensation to be on. For the standard SP140 electric motor direction, it will be on the right side of the goose neck bars when in the flying position. \*For the ICE Atom 80, it should be placed on the left side.
 
 ![Gooseneck Bars](images/image27.png)
 

@@ -4,9 +4,8 @@ weight: 9
 slug: "flight-operations"
 ---
 
-
-
 ## 7.1 Normal Flight Profile
+
 The SP140 electric paramotor operates on the same principle as any other gas paramotor, spinning the propeller to produce thrust so it can be flown similarly to most other paramotors.
 
 **Takeoff:**

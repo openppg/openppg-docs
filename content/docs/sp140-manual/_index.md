@@ -93,4 +93,3 @@ weight: 1
   <h2>OpenPPG Mobile App</h2>
   <p>The official OpenPPG app will provide real-time telemetry, flight logging, and system diagnostics for your SP140 v2.5. Stay tuned for the official release.</p>
 </div>
-

@@ -4,8 +4,6 @@ weight: 6
 slug: "first-start"
 ---
 
-
-
 ## 5.1 Motor runup (No Prop)
 
 1. Start by having your battery plugged in followed by the main power switch turned on.

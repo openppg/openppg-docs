@@ -100,7 +100,12 @@ We welcome contributions to improve the documentation! Here's how you can help:
    ```bash
    npm run dev
    ```
-5. **Commit your changes:**
+
+5. **Format your code:**
+   ```bash
+   npm run format
+   ```
+6. **Commit your changes:**
    ```bash
    git commit -am "Improve assembly step 3 clarity"
    ```

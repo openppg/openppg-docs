@@ -1,12 +1,12 @@
 {
   "name": "openppg-docs",
-  "version": "1.8.0",
-  "description": "Doks theme",
-  "author": "Thulite",
+  "version": "1.0.0",
+  "description": "Official documentation for OpenPPG electric paramotors",
+  "author": "OpenPPG",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thuliteio/doks.git"
+    "url": "https://github.com/openppg/openppg-docs.git"
   },
   "scripts": {
     "create": "hugo new",
