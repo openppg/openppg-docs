@@ -21,8 +21,8 @@ mainSections = ["docs"]
 
   ## Button
   navBarButton = true # false (default) or true
-  navBarButtonUrl = "/docs/sp140-manual/"
-  navBarButtonText = "SP140 Manual"
+  navBarButtonUrl = "/docs/SP140-v2.5-Manual.pdf"
+  navBarButtonText = "Download PDF"
 
   # FlexSearch
   flexSearch = true # true (default) or false

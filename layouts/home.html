@@ -6,7 +6,10 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/sp140-manual/" role="button">View SP140 v2.5 Manual</a>
+      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/sp140-manual/" role="button">View SP140
+        v2.5 Manual</a>
+      <a class="btn btn-outline-primary rounded-pill btn-lg my-3 ms-2" href="/docs/SP140-v2.5-Manual.pdf"
+        role="button">Download PDF</a>
       {{ .Content }}
     </div>
   </div>
@@ -14,35 +17,35 @@
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
-  {{ if site.Params.doks.backgroundDots -}}
-  <div class="d-flex justify-content-start">
-    <div class="bg-dots"></div>
-  </div>
-  {{ end -}}
-  {{ if eq $.Site.Language.LanguageName "English" }}
-  <section class="section section-md section-features">
-    <div class="container">
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-5">
-          <h2 class="h4">Complete User Manual</h2>
-          <p>Step-by-step assembly, operation, and maintenance guides for your SP140 v2.5</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Technical Specifications</h2>
-          <p>Detailed specs including 160 lbs thrust, 20 kW power, and up to 80 min flight time</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Safety Information</h2>
-          <p>Pre-flight checks, system alerts, and emergency procedures</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Video Tutorials</h2>
-          <p>Watch assembly and operation guides at <a href="https://openppg.com/sp140/v2.5/video">openppg.com</a></p>
-        </div>
+{{ if site.Params.doks.backgroundDots -}}
+<div class="d-flex justify-content-start">
+  <div class="bg-dots"></div>
+</div>
+{{ end -}}
+{{ if eq $.Site.Language.LanguageName "English" }}
+<section class="section section-md section-features">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <h2 class="h4">Complete User Manual</h2>
+        <p>Step-by-step assembly, operation, and maintenance guides for your SP140 v2.5</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4">Technical Specifications</h2>
+        <p>Detailed specs including 160 lbs thrust, 20 kW power, and up to 80 min flight time</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4">Safety Information</h2>
+        <p>Pre-flight checks, system alerts, and emergency procedures</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4">Video Tutorials</h2>
+        <p>Watch assembly and operation guides at <a href="https://openppg.com/sp140/v2.5/video">openppg.com</a></p>
       </div>
     </div>
-  </section>
-  {{ end }}
+  </div>
+</section>
+{{ end }}
 {{ end }}
 
 {{ define "sidebar-footer" }}

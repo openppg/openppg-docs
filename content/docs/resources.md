@@ -14,6 +14,10 @@ seo:
   noindex: false
 ---
 
+## Download Manual
+
+[Download SP140 v2.5 Manual (PDF)](/docs/SP140-v2.5-Manual.pdf) - Print-friendly version of the complete manual for offline reference
+
 ## Video Tutorials
 
 - [SP140 v2.5 Video Manual](https://openppg.com/sp140/v2.5/video) - Complete video walkthrough of assembly and operation
