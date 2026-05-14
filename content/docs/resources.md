@@ -27,7 +27,7 @@ seo:
 
 - [OpenPPG Forum](https://community.openppg.com) - Connect with other pilots and get support
 
-# Social Media
+## Social Media
 
 - [Instagram](https://instagram.com/openppg) - Follow us on Instagram
 - [X.com](https://x.com/openppg) - Follow us on X
