@@ -20,7 +20,7 @@ seo:
 
 ## Video Tutorials
 
-- [SP140 v2.5 Video Manual](https://openppg.com/sp140/v2.5/video) - Complete video walkthrough of assembly and operation
+- [SP140 v2.5 Video Tutorials](/docs/sp140-manual/) - Step-by-step frame and power pack assembly video walkthroughs
 - [YouTube Channel](https://youtube.com/@openppg) - Latest updates and flying videos
 
 ## Community
