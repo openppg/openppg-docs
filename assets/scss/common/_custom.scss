@@ -17,14 +17,6 @@
 .manual-hero-text {
     text-align: left;
 
-    h2 {
-        font-size: 2rem;
-        font-weight: 700;
-        margin-bottom: 0.5rem;
-        color: var(--body-color);
-        line-height: 1.2;
-    }
-
     .version {
         font-size: 0.9rem;
         color: var(--text-muted);
@@ -133,7 +125,7 @@
     box-shadow: 0 8px 24px rgba(9, 105, 218, 0.2);
     position: relative;
 
-    .coming-soon-badge {
+    .app-badge {
         display: inline-block;
         background: rgba(255, 255, 255, 0.2);
         color: white;
@@ -145,6 +137,31 @@
         border-radius: 20px;
         margin-bottom: 0.75rem;
         border: 1px solid rgba(255, 255, 255, 0.3);
+    }
+
+    .app-cta {
+        display: inline-block;
+        background: #fff;
+        color: #0550ae;
+        font-weight: 600;
+        font-size: 0.95rem;
+        padding: 0.6rem 1.5rem;
+        border-radius: 50rem;
+        text-decoration: none;
+        transition: all 0.2s ease;
+
+        &:hover,
+        &:focus {
+            background: rgba(255, 255, 255, 0.9);
+            color: #0550ae;
+            text-decoration: none;
+            transform: translateY(-1px);
+        }
+
+        &:focus-visible {
+            outline: 2px solid #fff;
+            outline-offset: 3px;
+        }
     }
 
     h2 {
@@ -161,19 +178,10 @@
         margin-left: auto;
         margin-right: auto;
     }
-
-    img {
-        max-width: 160px;
-        width: 100%;
-        height: auto;
-        margin: 0 auto;
-        background: white;
-        padding: 0.75rem;
-        border-radius: 10px;
-    }
 }
 
-// Hide auto-generated table of contents
+// Hide the theme's auto-generated child-page card list. Section landing pages in
+// this site provide their own navigation (see the manual-nav shortcode).
 .card-list {
     display: none !important;
 }

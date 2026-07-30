@@ -1,5 +1,6 @@
 ---
 title: "5. First Start-Up & Functional Checks"
+description: "First motor runup, cruise control test, and reading hand controller telemetry — all with the prop off"
 weight: 6
 slug: "first-start"
 ---
@@ -7,7 +8,7 @@ slug: "first-start"
 ## 5.1 Motor runup (No Prop)
 
 1. Start by having your battery plugged in followed by the main power switch turned on.
-2. With your prop off the motor arming the motor can be done. Without arming the motor, the motor will not be able to spin. This is for safety so not to accidentally spin up the motor.
+2. With the prop off, the motor can be armed. Until the motor is armed it cannot spin — this is a safety feature to prevent accidentally spinning up the motor.
 3. With all systems on and the main power switch in the on position, you can now arm the systems with the hand controller.
 4. Arming is done with the little red button at the top of the hand controller.
 5. To arm press and release the button once then press again and hold until the hand controller beeps and vibrates. (This should just take 1-2 seconds to arm or disarm and can be done at any state in flight)

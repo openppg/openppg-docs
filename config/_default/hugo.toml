@@ -6,13 +6,12 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
+locale = "en-US"
 rssLimit = 10
 summarylength = 20 # 70 (default)
 
 # Multilingual
 defaultContentLanguage = "en"
-disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
 copyRight = "Copyright (c) 2024-2026 OpenPPG"
@@ -21,7 +20,7 @@ copyRight = "Copyright (c) 2024-2026 OpenPPG"
   enable = true
 
 [outputs]
-  home = ["HTML", "RSS", "searchIndex"]
+  home = ["HTML", "RSS", "searchIndex", "SITEMAP"]
   section = ["HTML", "RSS", "SITEMAP"]
 
 [outputFormats.searchIndex]

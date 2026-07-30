@@ -17,19 +17,21 @@ This repository contains the complete documentation for OpenPPG products, built 
 
 ## Prerequisites
 
-- [Hugo Extended](https://gohugo.io/installation/) v0.154.5 or later
+- [Hugo Extended](https://gohugo.io/installation/) v0.164.0 or later
 - [Node.js](https://nodejs.org/) v20.11.0 or later
 - [npm](https://www.npmjs.com/) v10 or later
 
 ## Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/openppg/openppg-docs.git
    cd openppg-docs
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
    ```
@@ -38,11 +40,12 @@ This repository contains the complete documentation for OpenPPG products, built 
    ```bash
    hugo version
    ```
-   Make sure you have Hugo Extended version 0.154.5 or later.
+   Make sure you have Hugo Extended version 0.164.0 or later.
 
 ## Local Development
 
 **Start the development server:**
+
 ```bash
 npm run dev
 ```
@@ -50,6 +53,7 @@ npm run dev
 This will start Hugo's development server with live reload at `http://localhost:1313/`
 
 **Other useful commands:**
+
 ```bash
 # Create new content
 npm run create content/docs/new-page.md
@@ -97,6 +101,7 @@ We welcome contributions to improve the documentation! Here's how you can help:
    ```
 3. **Make your changes** - Edit Markdown files in `content/docs/`
 4. **Test locally:**
+
    ```bash
    npm run dev
    ```
@@ -109,11 +114,11 @@ We welcome contributions to improve the documentation! Here's how you can help:
    ```bash
    git commit -am "Improve assembly step 3 clarity"
    ```
-6. **Push to your fork:**
+7. **Push to your fork:**
    ```bash
    git push origin improve-assembly-guide
    ```
-7. **Create a Pull Request**
+8. **Create a Pull Request**
 
 ### Content Guidelines
 
@@ -127,7 +132,7 @@ We welcome contributions to improve the documentation! Here's how you can help:
 
 The site automatically deploys to GitHub Pages when changes are pushed to the `master` branch. The deployment workflow:
 
-1. Installs Hugo v0.154.x
+1. Installs Hugo v0.164.x
 2. Installs npm dependencies
 3. Builds the site with `hugo --minify`
 4. Deploys to GitHub Pages

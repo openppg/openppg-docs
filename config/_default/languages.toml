@@ -1,32 +1,7 @@
 [en]
-  languageName = "English"
-  contentDir = "content/en"
+  label = "English"
   weight = 10
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
     footer = 'Brought to you by <a class="text-muted" href="https://openppg.com/">OpenPPG</a>'
-    alertText = '<a class="alert-link stretched-link fw-normal" href="/docs/sp140-manual/">SP140 v2.5 User Manual now available!</a>'
-
-[de]
-  languageName = "German"
-  contentDir = "content/de"
-  weight = 15
-  [de.params]
-    languageISO = "DE"
-    languageTag = "de-DE"
-    footer = 'Bereitgestellt von <a class="text-muted" href="https://openppg.com/">OpenPPG</a>'
-    alertText = '<a class="alert-link stretched-link fw-normal" href="/docs/sp140-manual/">SP140 v2.5 Benutzerhandbuch jetzt verfügbar!</a>'
-
-[nl]
-  languageName = "Nederlands"
-  contentDir = "content/nl"
-  weight = 20
-  [nl.params]
-    languageISO = "NL"
-    languageTag = "nl-NL"
-    titleAddition = "Officiele OpenPPG-documentatie"
-    description = "Officiele documentatie, handleidingen en bronnen voor OpenPPG elektrische paramotors."
-    titleHome = "OpenPPG-documentatie"
-    footer = 'Aangeboden door <a class="text-muted" href="https://openppg.com/">OpenPPG</a>'
-    alertText = '<a class="alert-link stretched-link fw-normal" href="/docs/sp140-manual/">SP140 v2.5 gebruikershandleiding nu beschikbaar!</a>'

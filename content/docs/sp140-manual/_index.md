@@ -44,52 +44,13 @@ weight: 1
   <p>Explore the complete SP140 v2.5 documentation below.</p>
 </div>
 
-<div class="manual-nav">
-  <div class="manual-nav-item">
-    <a href="technical-specs/">1. Technical Specs Overview</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="parts-identification/">2. Parts Identification Legend</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="dimensions/">3. Engine & Frame Dimensions</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="assembly/">4. Assembly & Installation</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="first-start/">5. First Start-Up & Functional Checks</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="alerts/">6. System Alerts / Telemetry</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="flight-operations/">7. Flight Operations</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="after-flight/">8. After-Flight Care</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="warranty/">9. Warranty</a>
-  </div>
-
-  <div class="manual-nav-item">
-    <a href="support/">10. Support & Contact Information</a>
-  </div>
-</div>
+{{< manual-nav >}}
 
 ---
 
 <div class="app-section">
-  <span class="coming-soon-badge">Coming Soon</span>
+  <span class="app-badge">Now in Beta</span>
   <h2>OpenPPG Mobile App</h2>
-  <p>The official OpenPPG app will provide real-time telemetry, flight logging, and system diagnostics for your SP140 v2.5. Stay tuned for the official release.</p>
+  <p>Connect to your SP140 v2.5 over Bluetooth for live telemetry, a moving map, a cockpit display you build yourself, and automatic flight logging. Available now in beta for iOS and Android.</p>
+  <a class="app-cta" href="https://openppg.com/beta/">Join the beta</a>
 </div>

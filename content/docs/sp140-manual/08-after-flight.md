@@ -1,5 +1,6 @@
 ---
 title: "8. After-Flight Care"
+description: "Transport, short- and long-term battery storage, and the scheduled maintenance table"
 weight: 10
 slug: "after-flight"
 ---
@@ -18,7 +19,7 @@ Operating in very cold environments (sub-0°C temperatures) is not a problem for
 
 There's little maintenance needed, as there are no motor rebuilds, oil changes, carburetor tuning, and essentially no moving parts, unlike a gasoline motor. There are a few things to keep an eye on below:
 
-| Interval          | Task                                                                                                                                                                                                |
-| :---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Every flight**  | Inspect bolts, straps, and propeller for any marks or chips                                                                                                                                         |
-| **Every 3 weeks** | Inspect the battery pack using the app to connect to and ensure the cell voltages are not below 3.3v if they have dropped below that threshold please charge them until 3.8v for long-term storage. |
+| Interval          | Task                                                                                                                                                                                                                                                                                                                                          |
+| :---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Every flight**  | Inspect bolts, straps, and propeller for any marks or chips                                                                                                                                                                                                                                                                                   |
+| **Every 3 weeks** | Check the battery pack's cell voltages on the hand controller screen (see [5.3 Telemetry Link data](../first-start/)) or with the [OpenPPG app](https://openppg.com/beta/). If any cell has dropped below 3.3 V, charge the pack back into the 30-50% storage range described in [8.2](#82-short--long-term-storage), roughly 3.8 V per cell. |

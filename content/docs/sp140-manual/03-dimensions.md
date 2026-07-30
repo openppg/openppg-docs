@@ -1,5 +1,6 @@
 ---
 title: "3. Engine & Frame Dimensions"
+description: "Assembled and shipping dimensions for the SP140 v2.5, plus links to the 3D files"
 weight: 4
 slug: "dimensions"
 ---

@@ -1,0 +1,10 @@
+{{- /* Renders a link card for each child page of the current section, ordered by weight.
+       Keeps the manual index in sync with the section automatically — adding a new
+       manual page requires no edit here or in _index.md. */ -}}
+<div class="manual-nav">
+  {{- range .Page.Pages.ByWeight }}
+  <div class="manual-nav-item">
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  </div>
+  {{- end }}
+</div>

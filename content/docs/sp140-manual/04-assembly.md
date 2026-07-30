@@ -1,5 +1,6 @@
 ---
 title: "4. Assembly & Installation"
+description: "Step-by-step assembly of the frame, netting, gooseneck, power pack, harness, and battery"
 weight: 5
 slug: "assembly"
 ---
@@ -34,18 +35,18 @@ Assembly video can be found here for a more detailed view:
 
 ![CF Spars](images/image13.png)
 
-2. Finally take the remaining two shorter spars and place in the button two posts.
+2. Finally take the remaining two shorter spars and place in the bottom two posts.
 
 ## 4.4 Hoop Connectors
 
 ![Hoop Connectors](images/image9.png)
 
-1. There are 7 total hoop connectors 0-6. Start by looking at the motor side of the frame (backside) starting from the bottom left CF spar with the number 1 labeled connector.
+1. There are 7 total hoop connectors, numbered 0-6. Start by looking at the motor side of the frame (backside) starting from the bottom left CF spar with the number 0 labeled connector.
 2. Slide firmly over the CF spar where you should feel it bottom out and not be able to slide on further. You can confirm this with a light tap of a rubber hammer, but please be careful not to hit the edges of the connector as they are more fragile.
 
 ![Hoop Connector Placement](images/image5.png)
 
-3. Once the number one connector is in place you can now take the number 2 and work your way clockwise around the frame, placing a connector with the corresponding number on each spar.
+3. Once the number 0 connector is in place you can now take the number 1 and work your way clockwise around the frame, placing a connector with the corresponding number on each spar.
 
 ![Hoop Connector Diagram](images/image10.png)
 
@@ -56,7 +57,7 @@ Assembly video can be found here for a more detailed view:
 
 ![Netting 1](images/image36.png)
 
-3. Slide the netting rods into the tubing and work your way down each size symmetrically. It can be done many ways but this is found to be the simplest.
+3. Slide the netting rods into the tubing and work your way down each side symmetrically. It can be done many ways but this is found to be the simplest.
 4. Finally connect the net tensioner and tighten the netting up as desired.
 
 ![Netting 2](images/image20.png)
@@ -69,7 +70,7 @@ Assembly video can be found here for a more detailed view:
 ![Gooseneck Bars](images/image27.png)
 
 2. Place the soft links in place using the 2 aluminum standoffs.
-3. Tighten up the bolts holding the soft links (LockTight can be applied). Tighten to 10nm.
+3. Tighten up the bolts holding the soft links (Loctite can be applied). Tighten to 10 N·m.
 4. Using the plastic washers and 10mm bolt tighten up the goose neck bars to the frame leaving just enough play to move vertically with no wiggle.
 
 ![Gooseneck Assembly](images/image7.png)
@@ -83,7 +84,9 @@ Assembly video can be found here for a more detailed view:
 
 ![Power Pack Mounting 1](images/image44.png)
 
-**For detailed instructions on power pack assembly, please watch the video here:**
+**For detailed instructions on power pack assembly, watch the video below:**
+
+{{< youtube PScYGVZks_c >}}
 
 ![Power Pack Video](images/image43.png)
 ![Power Pack Detail](images/leg-clamp.png)

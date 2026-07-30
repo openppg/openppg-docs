@@ -22,7 +22,6 @@
   <div class="bg-dots"></div>
 </div>
 {{ end -}}
-{{ if eq $.Site.Language.LanguageName "English" }}
 <section class="section section-md section-features">
   <div class="container">
     <div class="row justify-content-center text-center">
@@ -35,17 +34,16 @@
         <p>Detailed specs including 160 lbs thrust, 20 kW power, and up to 80 min flight time</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Safety Information</h2>
-        <p>Pre-flight checks, system alerts, and emergency procedures</p>
+        <h2 class="h4">System Alerts</h2>
+        <p>Every warning and critical alert code from the ESC, BMS, and controller, explained</p>
       </div>
       <div class="col-lg-5">
         <h2 class="h4">Video Tutorials</h2>
-        <p>Watch assembly and operation guides at <a href="https://openppg.com/sp140/v2.5/video">openppg.com</a></p>
+        <p>Watch assembly and operation guides at <a href="https://openppg.com/sp140/v2.5/video/">openppg.com</a></p>
       </div>
     </div>
   </div>
 </section>
-{{ end }}
 {{ end }}
 
 {{ define "sidebar-footer" }}

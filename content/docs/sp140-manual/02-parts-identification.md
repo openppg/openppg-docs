@@ -1,5 +1,6 @@
 ---
 title: "2. Parts Identification Legend"
+description: "Visual reference for every SP140 v2.5 frame and power system component"
 weight: 3
 slug: "parts-identification"
 ---

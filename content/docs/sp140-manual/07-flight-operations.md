@@ -1,5 +1,6 @@
 ---
 title: "7. Flight Operations"
+description: "Takeoff, climb-out, cruise, landing, and post-landing shutdown procedures"
 weight: 9
 slug: "flight-operations"
 ---

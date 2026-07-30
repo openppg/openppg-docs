@@ -71,7 +71,12 @@
   url = "https://openppg.com/"
   weight = 10
 
-# [[footer]]
-#   name = "Terms of Service"
-#   url = "/terms/"
-#   weight = 20
+[[footer]]
+  name = "Support"
+  url = "https://openppg.com/contact/"
+  weight = 20
+
+[[footer]]
+  name = "Privacy Policy"
+  url = "https://openppg.com/privacy-policy/"
+  weight = 30

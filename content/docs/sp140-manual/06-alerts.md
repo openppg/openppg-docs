@@ -1,5 +1,6 @@
 ---
 title: "6. System Alerts / Telemetry"
+description: "Full reference for ESC, BMS, and internal system warning and critical alert codes"
 weight: 7
 slug: "alerts"
 ---
