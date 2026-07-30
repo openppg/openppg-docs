@@ -1,6 +1,6 @@
 ---
 title: "7. Flight Operations"
-description: "Takeoff, climb-out, cruise, landing, and post-landing shutdown procedures"
+description: "Takeoff, climb-out, cruise, landing, post-landing shutdown, and flying in wet conditions"
 weight: 9
 slug: "flight-operations"
 ---
@@ -25,3 +25,9 @@ Many pilots choose to disarm the throttle on landing to prevent accidental activ
 
 **Post flight:**
 After flight, turn off the main power switch located on the battery pack. Then, unplug the main power lead from the motor. Note the battery's SOC percentage. If landing with an SOC below 10%, it's best to charge the battery back to around 50% SOC before storing the system for longer than a week.
+
+## 7.3 Water and Weather Exposure
+
+The motor system is weather resistant, and light rain or salt spray from flying near the coast will not harm it. **Avoid flying in heavy rain**, and note that the bigger risk in wet conditions is to the wing's handling, not to the motor — that is true of any paramotor, electric or gas.
+
+**Avoid fully submerging the system.** Full submersion shorts the battery pack internally and will damage or corrode components, even though it presents no shock hazard to the pilot. If you fly over water, the real danger in a water landing is drowning, exactly as it is with a gas paramotor — wear flotation. If the system is ever submerged, do not attempt to charge or run it; contact [info@openppg.com](mailto:info@openppg.com) before using it again.

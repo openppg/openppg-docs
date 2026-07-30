@@ -12,6 +12,7 @@ slug: "first-start"
 3. With all systems on and the main power switch in the on position, you can now arm the systems with the hand controller.
 4. Arming is done with the little red button at the top of the hand controller.
 5. To arm press and release the button once then press again and hold until the hand controller beeps and vibrates. (This should just take 1-2 seconds to arm or disarm and can be done at any state in flight)
+   - **The system will not arm while the throttle lever is even partially pressed.** This is a safety interlock that prevents the motor from spinning up the instant it arms. If arming seems to do nothing, release the throttle fully and try again.
 6. With the system armed you can now press the throttle lever and the motor will spin up. The more the lever is depressed the faster the motor will spin.
 7. You can then disarm with the same method of button presses (press and release then press and hold).
 

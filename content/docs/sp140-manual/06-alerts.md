@@ -1,6 +1,6 @@
 ---
 title: "6. System Alerts / Telemetry"
-description: "Full reference for ESC, BMS, and internal system warning and critical alert codes"
+description: "Full reference for ESC, BMS, CAN bus, and internal system warning and critical alert codes"
 weight: 7
 slug: "alerts"
 ---
@@ -75,6 +75,17 @@ slug: "alerts"
 | Alert             | Abbreviation | Trigger Condition           | Meaning                     |
 | :---------------- | :----------- | :-------------------------- | :-------------------------- |
 | BMS Discharge MOS | BC-DSG       | Active when false (MOS off) | Discharge MOSFET turned off |
+
+## Communication (CAN Bus) Alerts
+
+The hand controller talks to the motor controller and the battery over a CAN bus. These alerts mean the controller could not establish one of those links.
+
+| Alert           | Abbreviation | Trigger Condition | Meaning                                                    |
+| :-------------- | :----------- | :---------------- | :--------------------------------------------------------- |
+| ESC CAN Failure | MC-CAN       | Active when true  | Hand controller could not communicate with the ESC         |
+| BMS CAN Failure | BC-CAN       | Active when true  | Hand controller could not communicate with the battery BMS |
+
+A CAN failure usually shows up as **missing telemetry rather than a dead system** — with BC-CAN the motor will often still run normally, but battery data such as state of charge, cell voltage, and pack temperature will be blank or wrong. The two most common causes are a BMS data plug that is not fully seated (see [4.10 Battery installation](../assembly/)) and a firmware version mismatch between the hand controller and the ESC (see [8.5 Firmware Updates](../after-flight/)). Do not fly with missing battery telemetry — you lose the alerts that warn you before a critical condition.
 
 ## Internal System Alerts
 
