@@ -1,6 +1,6 @@
 ---
 title: "5. First Start-Up & Functional Checks"
-description: "First motor runup, cruise control test, and reading hand controller telemetry — all with the prop off"
+description: "First motor runup, cruise control test, hand controller telemetry, and Sport/Chill throttle modes — all with the prop off"
 weight: 6
 slug: "first-start"
 ---
@@ -37,3 +37,10 @@ slug: "first-start"
 8. Should any warnings or errors arise, they will be shown in the bottom left of the screen along with the number of errors or warnings.
 
 ![Telemetry Screen](images/image16.png)
+
+## 5.4 Throttle Modes (Sport / Chill)
+
+1. The SP140 has two throttle modes: **Sport** (full power) and **Chill** (an intentionally reduced-power mode, ideal for students and lighter pilots). The active mode is shown above the flight timer on the hand controller screen (see [5.3](#53-telemetry-link-data-no-prop)).
+2. To switch modes in the field, make sure the system is **disarmed**, then press and hold the hand controller button for about 2-3 seconds until the mode changes.
+3. Modes can also be set in the online configurator at [config.openppg.com](https://config.openppg.com).
+4. Chill mode caps thrust on purpose — it is not full power with a softer response. If you need maximum takeoff thrust, use Sport mode.
