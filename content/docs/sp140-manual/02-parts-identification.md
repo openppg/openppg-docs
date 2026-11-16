@@ -5,6 +5,8 @@ weight: 3
 slug: "parts-identification"
 ---
 
+Need a replacement? Find any of these parts on the 3D model and order it from the [SP140 3D Part Picker](https://openppg.com/3d-part-finder/).
+
 ## Frame Parts
 
 | Part Name                  | Image                                                        |

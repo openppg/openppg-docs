@@ -5,7 +5,9 @@ weight: 4
 slug: "dimensions"
 ---
 
-Complete 3D files can be downloaded at the link:
+To look up any part on a 3D model, download its STEP or STL file, or order a replacement, use the [SP140 3D Part Picker](https://openppg.com/3d-part-finder/).
+
+Complete 3D files can also be downloaded from GitHub:
 [https://github.com/openppg/sp140-hardware/tree/main](https://github.com/openppg/sp140-hardware/tree/main)
 
 ![Dimensions 1](images/image15.png)

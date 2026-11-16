@@ -5,12 +5,15 @@ weight: 12
 slug: "support"
 ---
 
-For all enquiries, use the [OpenPPG contact page](https://openppg.com/contact/) or the details below.
+For all enquiries, use the [OpenPPG contact page](https://openppg.com/contact/), [book a call](https://openppg.com/book-a-call/) with the team, or use the details below.
 
 | Category              | Detail                    | Contact                                                                                                |
 | :-------------------- | :------------------------ | :----------------------------------------------------------------------------------------------------- |
 | **General inquiries** | Questions                 | [info@openppg.com](mailto:info@openppg.com)                                                            |
+| **General inquiries** | Talk to the team          | [openppg.com/book-a-call](https://openppg.com/book-a-call/)                                            |
 | **Orders & RMAs**     | Include order # in e-mail | [info@openppg.com](mailto:info@openppg.com)                                                            |
+| **Orders & RMAs**     | Return policy             | [openppg.com/return-policy](https://openppg.com/return-policy/)                                        |
+| **Orders & RMAs**     | Replacement parts         | [openppg.com/3d-part-finder](https://openppg.com/3d-part-finder/)                                      |
 | **Digital Guide**     | Online Manual             | [docs.openppg.com](https://docs.openppg.com)                                                           |
 | **Online resources**  | YouTube page              | [www.youtube.com/@openppg](https://www.youtube.com/@openppg)                                           |
 | **Online resources**  | Config Tool               | [config.openppg.com](https://config.openppg.com)                                                       |
